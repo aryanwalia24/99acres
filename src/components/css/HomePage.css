@@ -1,0 +1,23 @@
+/* src/css/HomePage.css */
+.home-page {
+  /* max-width: 1200px; */
+  margin: 0 auto;
+  /* padding: 20px; */
+  background-image: url('../../../public/images/bg.jpg');
+  width: 100vw;
+}
+
+.home-page header {
+  text-align: center;
+  margin-bottom: 20px;
+}
+
+.home-page header h1 {
+  font-size: 2rem;
+}
+
+.property-list {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+}

@@ -1,0 +1,24 @@
+/* src/css/PropertyCard.css */
+.property-card {
+  border: 1px solid #ccc;
+  border-radius: 8px;
+  box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+  margin: 10px;
+  padding: 20px;
+  width: 300px;
+  background-color: #f0ecec97;
+}
+
+.property-card img {
+  width: 100%;
+  border-radius: 8px;
+}
+
+.property-card h2 {
+  margin-top: 10px;
+  margin-bottom: 5px;
+}
+
+.property-card p {
+  margin: 5px 0;
+}
